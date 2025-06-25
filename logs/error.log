@@ -40,3 +40,8 @@
 2025/06/25 18:18:42 [error] 33404#23636: CreateFile() "C:\Users\guruc\Downloads\nginx-1.28.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
 2025/06/25 18:20:51 [notice] 31936#12636: signal process started
 2025/06/25 18:20:51 [error] 31936#12636: CreateFile() "C:\Users\guruc\Downloads\nginx-1.28.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/06/25 18:22:39 [error] 34412#29104: *1 CreateFile() "C:\Users\guruc\Downloads\nginx-1.28.0/html/images/nemali-pinchem.jpeg" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: localhost, request: "GET /images/nemali-pinchem.jpeg HTTP/1.1", host: "localhost"
+2025/06/25 18:26:39 [notice] 8416#35436: signal process started
+2025/06/25 18:26:43 [notice] 28660#31820: signal process started
+2025/06/25 18:26:43 [error] 28660#31820: CreateFile() "c:\Users\guruc\Downloads\nginx-1.28.0/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2025/06/25 18:28:14 [notice] 6436#27108: signal process started
